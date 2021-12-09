@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/CSCI4/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/CSCI4/static/js/main.a14ab73b.chunk.js",
-    "main.js.map": "/CSCI4/static/js/main.a14ab73b.chunk.js.map",
+    "main.css": "/CSCI4/static/css/main.8fe1a044.chunk.css",
+    "main.js": "/CSCI4/static/js/main.7d137b62.chunk.js",
+    "main.js.map": "/CSCI4/static/js/main.7d137b62.chunk.js.map",
     "runtime-main.js": "/CSCI4/static/js/runtime-main.11f51a9f.js",
     "runtime-main.js.map": "/CSCI4/static/js/runtime-main.11f51a9f.js.map",
     "static/js/2.cad1a109.chunk.js": "/CSCI4/static/js/2.cad1a109.chunk.js",
@@ -10,14 +10,26 @@
     "static/js/3.f289dec2.chunk.js": "/CSCI4/static/js/3.f289dec2.chunk.js",
     "static/js/3.f289dec2.chunk.js.map": "/CSCI4/static/js/3.f289dec2.chunk.js.map",
     "index.html": "/CSCI4/index.html",
-    "static/css/main.8c8b27cf.chunk.css.map": "/CSCI4/static/css/main.8c8b27cf.chunk.css.map",
+    "static/css/main.8fe1a044.chunk.css.map": "/CSCI4/static/css/main.8fe1a044.chunk.css.map",
     "static/js/2.cad1a109.chunk.js.LICENSE.txt": "/CSCI4/static/js/2.cad1a109.chunk.js.LICENSE.txt",
-    "static/media/photo.6ba3abbf.png": "/CSCI4/static/media/photo.6ba3abbf.png"
+    "static/media/all_grades.a2aaa22d.png": "/CSCI4/static/media/all_grades.a2aaa22d.png",
+    "static/media/for_grade3.f8fe96dd.png": "/CSCI4/static/media/for_grade3.f8fe96dd.png",
+    "static/media/for_grade4.f8e2b1a3.png": "/CSCI4/static/media/for_grade4.f8e2b1a3.png",
+    "static/media/for_grade5.0bb30f95.png": "/CSCI4/static/media/for_grade5.0bb30f95.png",
+    "static/media/for_grade6.75cd79c6.png": "/CSCI4/static/media/for_grade6.75cd79c6.png",
+    "static/media/for_grade7.28dc30ca.png": "/CSCI4/static/media/for_grade7.28dc30ca.png",
+    "static/media/for_grade8.be7efc92.png": "/CSCI4/static/media/for_grade8.be7efc92.png",
+    "static/media/grade3.38c9858f.png": "/CSCI4/static/media/grade3.38c9858f.png",
+    "static/media/grade4.2aa7d79b.png": "/CSCI4/static/media/grade4.2aa7d79b.png",
+    "static/media/grade5.b1d24910.png": "/CSCI4/static/media/grade5.b1d24910.png",
+    "static/media/grade6.d3f7ed8f.png": "/CSCI4/static/media/grade6.d3f7ed8f.png",
+    "static/media/grade7.bfd4bf85.png": "/CSCI4/static/media/grade7.bfd4bf85.png",
+    "static/media/grade8.1d091350.png": "/CSCI4/static/media/grade8.1d091350.png"
   },
   "entrypoints": [
     "static/js/runtime-main.11f51a9f.js",
     "static/js/2.cad1a109.chunk.js",
-    "static/css/main.8c8b27cf.chunk.css",
-    "static/js/main.a14ab73b.chunk.js"
+    "static/css/main.8fe1a044.chunk.css",
+    "static/js/main.7d137b62.chunk.js"
   ]
 }
