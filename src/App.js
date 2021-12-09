@@ -28,16 +28,10 @@ function App() {
               <h1 className="collor">Why I picked this</h1>
               <h2>This project has personal significance to me because I was also one of the students who had to take math exams. When I took the math exams, I felt unprepared, I know others in this situation who had to retake it due to schools not preparing us for it. I wanted to compare the math exam scores throughout the years to see if there has been an improvement or not. And these are for students who is going to take this exam and creating less stressful data for them. I don’t think there is an existing solution for it. Students often do not look at the data and find out success rates over the year. I just want to make the data easier to navigate and help them to understand better.</h2>
               <div>
-              <h1 className="collor">For all grades math results over the years</h1>
+              <h1 className="collor">Students' math results over the years</h1>
               <img src= {all_grades} />
-              <h1 className="collor">Students who did well in math exam over the years for each grade:</h1>
-              <img src= {for_grades3} />
-              <img src= {for_grades4} />
-              <img src= {for_grades5} />
-              <img src= {for_grades6} />
-              <img src= {for_grades7} />
-              <img src= {for_grades8} />
-              <h1 className="collor">Students math exam results over the years for each grade:</h1>
+
+              <h1 className="collor">Students' math exam results over the years for each grade:</h1>
               <img src= {grade3} />
               <img src= {grade4} />
               <img src= {grade5} />
@@ -45,6 +39,29 @@ function App() {
               <img src= {grade7} />
               <img src= {grade8} />
 
+              <h1 className="collor">Students' who did well in math exam over the years for each grade:</h1>
+              <img src= {for_grades3} />
+              <img src= {for_grades4} />
+              <img src= {for_grades5} />
+              <img src= {for_grades6} />
+              <img src= {for_grades7} />
+              <img src= {for_grades8} />
+             
+
+              </div>
+              <div>
+                <h1 className = "collor"> Conclusion:</h1>
+                <h2>Over the years students have improved in math exams which shows that education system is improving in NYC. The main reason is that most of the families able to reach the technnology. Most of the students have their own phones or computers.
+                  Also, every year students who did well in math exams have improved. Besides 8th grade, all other grades are above 20% high success rate (level 4). Which is a good sign. (if 100 students took the exam 20 of them did excellent). 
+                  For, 8th grades, maybe we should decrease the pressure because all 8 graders are busy with their high school application.
+                  Overall, math gradeds are improving over the years due to techonology.
+                </h2>
+              </div>
+              <div>
+                <h1 className="collor"> Resources:</h1>
+                <h2>https://infohub.nyced.org/reports/academics/test-results Citywide</h2>
+                <h2>https://www.readandspell.com/us/struggling-with-math</h2>
+                <h2>https://www.theedadvocate.org/10-reasons-the-u-s-education-system-is-failing/</h2>
               </div>
              
               
