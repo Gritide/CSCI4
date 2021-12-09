@@ -22,7 +22,8 @@ function App() {
         <div className="App">
           <div className="topDesign"></div>
           <div>
-
+              <h1 className="collor">Title:</h1>
+              <h2>What Has Changed in Math Results in NYC</h2>
               <h1 className="collor">Problem Statement:</h1>
               <h2> Citywide 3 to 8 graders math results between 2013-2019. See whether students in New York City have improved math and able to find whether there is a problem in education system.</h2>
               <h1 className="collor">Why I picked this</h1>
@@ -51,10 +52,11 @@ function App() {
               </div>
               <div>
                 <h1 className = "collor"> Conclusion:</h1>
-                <h2>Over the years students have improved in math exams which shows that education system is improving in NYC. The main reason is that most of the families able to reach the technnology. Most of the students have their own phones or computers.
-                  Also, every year students who did well in math exams have improved. Besides 8th grade, all other grades are above 20% high success rate (level 4). Which is a good sign. (if 100 students took the exam 20 of them did excellent). 
-                  For, 8th grades, maybe we should decrease the pressure because all 8 graders are busy with their high school application.
-                  Overall, math gradeds are improving over the years due to techonology.
+                <h2>Over the years, students have improved in math exams, this shows that the education system is improving in NYC. The main reason for this improvement is that most families have access to technology.
+                   Most students have their own phones or computers. Every year there has been an improvement in students doing well in math exams. 
+                   Besides the 8th graders, all other grades are above 20% high success rate (level 4), this is a good sign (If 100 students took the exam 20 of them did excellent).
+                    For the 8th graders it might help to decrease the pressure/difficulty of the math exam because all 8th graders are busy with their high school application. 
+                    Overall, math grades are improving over the years due to technology.
                 </h2>
               </div>
               <div>
